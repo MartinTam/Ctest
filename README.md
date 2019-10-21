@@ -13,7 +13,7 @@ This bash script is use for comparing the output from the program written in C w
   
 # Example
 
-> bash Ctest.sh compiledFile.out
+  bash Ctest.sh compiledFile.out
 
 # License
 
