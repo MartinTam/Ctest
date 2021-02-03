@@ -15,6 +15,10 @@ This bash script is use for comparing the output from the program written in C w
 
     bash Ctest.sh compiledFile.out
 
+# How it looks like:
+
+![Screenshot](/images/screenshot.png)
+
 # License
 
 The code is available under the [MIT](https://github.com/MartinTam/Ctest/blob/master/LICENSE) license.
