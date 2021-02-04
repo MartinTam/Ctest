@@ -4,9 +4,7 @@ This bash script is used for comparing the output from the program written in C 
 
 # Why I wrote this?
 
-I needed to automate the testing process, while I was doing my homeworks in the subject PA1 (Programming and algorithmic 1
-
-) at [FIT CTU Prague](https://fit.cvut.cz/cs).
+I needed to automate the testing process, while I was doing my homeworks in the subject PA1 (Programming and algorithmic 1) at [FIT CTU Prague](https://fit.cvut.cz/cs).
 
 # How to use it:
 
