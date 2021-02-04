@@ -1,6 +1,10 @@
 # Ctest
 
-This bash script is use for comparing the output from the program written in C with the correct output.
+This bash script is used for comparing the output from the program written in C with the correct output.
+
+# Why I wrote this?
+
+I needed to automate the testing process, while I was doing my homeworks in subject PA1 at FIT CTU Prague.
 
 # How to use it:
 
